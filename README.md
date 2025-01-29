@@ -50,6 +50,9 @@ KB IT's Your Life 5기 종합실무프로젝트 - 최우수상 수상
 - Database : MySQL
 - Deploy: GCP
 
+## ⚙️ System Architecture
+![SystemArchitecture](https://github.com/yesslee/song-e-pay/blob/main/documents/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
+
 ## 📂 Project Structure
 ### Front-End
 ```
@@ -200,9 +203,6 @@ src/main
 └── webapp
     └── resources
 ```
-
-## ⚙️ System Architecture
-![SystemArchitecture](https://github.com/yesslee/song-e-pay/blob/main/documents/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
 
 ## 👨‍👩‍👧‍👦 Developer
 

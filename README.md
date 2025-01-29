@@ -1,15 +1,12 @@
-![3D_SongE](https://github.com/user-attachments/assets/2af200f6-86c3-4ea6-893e-9a7bb772c532)
-
-<br>
+![3D_SongE](https://github.com/BoyunLee/song-e-pay/blob/main/frontend/public/images/3D_SongE.png)
 
 # SongE-Pay 
-
-KB IT's Your Life 5기 최종프로젝트
+KB IT's Your Life 5기 최종프로젝트 <br>
 편리한 금융 생활을 위한 전자 지갑 서비스
+KB IT's Your Life 5기 최종프로젝트 최우수상 수상
 
-<br>
+## 팀원 소개 - 버섯도적단 🍄
 
-# 버섯도적단
 
 | <img src="https://github.com/BoyunLee.png" width="80"> | <img src="https://github.com/sojinnuna.png" width="80"> | <img src="https://github.com/ybon1107.png" width="80"> | <img src="https://github.com/ssooomm.png" width="80"> |  <img src="https://github.com/yesslee.png" width="80"> | <img src="https://github.com/cyh000127.png" width="80"> | <img src="https://github.com/ddubuk228.png" width="80"> |
 | :----------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: |
@@ -18,7 +15,8 @@ KB IT's Your Life 5기 최종프로젝트
 
 <br>
 
-# 기술 스택
+
+## 기술 스택
 <h3>Frontend</h3> 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
@@ -37,13 +35,21 @@ KB IT's Your Life 5기 최종프로젝트
   <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-<br>
+![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/project_proposal/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
+
+
+
 
 # 프로젝트 개요 및 소개
 
-프로젝트의 주제 : 외국인 여행객을 위한 전자지갑 서비스<br>
-타겟 사용자 : 한국을 방문하는 외국인 관광객 그 중에서도 동남아시아<br>
-기획 의도 : 환율 확인, 환전, 송금, 결제를 한 곳에서 할 수 있는 서비스를 통해 외국인 관광객들이 편리하게 한국에서 금융 서비스를 이용할 수 있도록 지원하는 것
+- 프로젝트의 주제 : 외국인 여행객을 위한 전자지갑 서비스<br>
+- 타겟 사용자 : 한국을 방문하는 외국인 관광객 그 중에서도 동남아시아<br>
+- 기획 의도 : 환율 확인, 환전, 송금, 결제를 한 곳에서 할 수 있는 서비스를 통해 외국인 관광객들이 편리하게 한국에서 금융 서비스를 이용할 수 있도록 지원하는 것 <br>
+- 🍄 프로젝트 발표 자료 : [바로가기](https://github.com/BoyunLee/song-e-pay/blob/main/project_proposal/P7-3_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pdf) <br>
+- 🎥 홍보 영상 : [바로가기](https://drive.google.com/file/d/1UkoZNkEHmLKtGLDq3yU9m1WtTev0kOiA/view?usp=drive_link) <br>
+- 🎥 시연 영상 : [바로가기](https://drive.google.com/file/d/1IZ-fjrbJJ8tq1ABcHmEo2fI-5DCuaAQ9/view?usp=drive_link) <br>
+- 🖥 배포 : [사용해보기](http://35.216.90.170)
+  
 
 <br>
 
@@ -52,49 +58,37 @@ KB IT's Your Life 5기 최종프로젝트
 - 환전 및 송금 기능
 - 가상 계좌로 간편한 결제 기능
 - 환율 알림 및 자동 환전 기능
-- 여행 일정 관리 및 금융 서비스 통합
-- 환율 알림 및 자동 환전 기능
-- 다국어 지원으로 언어 장벽 해소
+- 여행 일정 관리 및 여행 상품 결제
+- 다국어 지원(한국어, 영어, 베트남어, 인도네시아어)
+- 반응형 페이지
 
 <br>
 
 # 주요 화면
+<h3>Main Page</h3>
+
+![main.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/main.png)
+
+<h3>My Page</h3>
+
+![my.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/my.png)
+
+<h3>Exchange Rate Page</h3>
+
+![exchangerate.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/exchangerate.png)
+
+<h3>Map Page</h3>
+
+![map.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/map.png)
+
+<h3>Reservation Page</h3>
+
+![reservation.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/reservation.png)
+
+<h3>Schedule Page</h3>
+
+![schedule.png](https://github.com/BoyunLee/song-e-pay/blob/main/image/schedule.png)
+
+<br>
 
 
-
-
-
-# Git Commit Message Template
-
-## 커밋 메시지 형식
-
-<타입>: <제목>
-
-본문
-
-Issues: #이슈번호 Resolves: #이슈번호 See also: #이슈번호
-
-markdown
-코드 복사
-
-## 타입 리스트
-
-- **feat** : 기능 (새로운 기능)
-- **fix** : 버그 (버그 수정)
-- **refactor** : 리팩토링 (기능 변경 없이 코드 개선)
-- **style** : 스타일 (코드 형식, 세미콜론 추가 등 비즈니스 로직에 영향 없는 변경)
-- **docs** : 문서 (문서 추가, 수정, 삭제)
-- **test** : 테스트 (테스트 코드 추가, 수정, 삭제)
-- **chore** : 기타 변경사항 (빌드 스크립트, 패키지 설정 수정 등)
-
-## 커밋 메시지 작성 규칙
-
-1. **제목과 본문은 한 줄 띄워 구분**
-2. **제목 첫 글자는 대문자**
-3. **제목은 영어 50자 이내, 한글 25자 이내**
-4. **제목은 명령문으로 작성**
-   - 이 커밋은 `<커밋 메시지>` 합니다.
-5. **제목 끝에 마침표(.) 금지**
-6. **본문은 영어 72자마다, 한글은 36자마다 개행**
-7. **본문은 "어떻게" 보다 "무엇을", "왜"를 설명**
-8. **본문에 여러 줄의 메시지를 작성할 때는 '-'로 구분**

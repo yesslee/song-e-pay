@@ -8,7 +8,8 @@ KB IT's Your Life 5기 종합실무프로젝트 - 최우수상 수상
 
 
 ## 📖 Description
-환율 확인, 환전, 송금, 결제를 한 곳에서 할 수 있는 서비스를 통해 외국인 관광객들이 편리하게 한국에서 금융 서비스를 이용할 수 있도록 지원합니다.
+환율 확인, 환전, 송금, 결제를 한 곳에서 할 수 있는 서비스를 통해<br>
+외국인 관광객들이 편리하게 한국에서 금융 서비스를 이용할 수 있도록 지원합니다.
 - [🍄 프로젝트 발표 자료(Click!)](https://github.com/yesslee/song-e-pay/blob/main/documents/P7-3_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pdf)
 - [🎥 홍보 영상(Click!)](https://drive.google.com/file/d/13QEDmfQn_LGDyKefaQoQu02f7Czppo63/view?usp=sharing)
 - [🎥 시연 영상(Click!)](https://drive.google.com/file/d/1zcLK3nyzw2v_HL8ic5oXz7A0X4F2g1fV/view?usp=sharing)

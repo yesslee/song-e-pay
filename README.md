@@ -2,7 +2,7 @@
 
 # SongE-Pay
 KB IT's Your Life 5기 종합실무프로젝트 - 최우수상 수상
-> 방한 외국인 관광객이 한국에서 금융 거래와 여행 일정을 쉽고 편리하게 관리할 수 있는 글로벌 금융 서비스 플랫폼 
+> 방한 외국인 관광객을 위한 한국에서의 금융 거래와 여행 일정을 쉽고 편리하게 관리할 수 있는 글로벌 금융 서비스 플랫폼 
 
 ![Thumnail](https://github.com/yesslee/song-e-pay/blob/main/readme_img/Thumnail.png)
 
